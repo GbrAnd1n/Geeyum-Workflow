@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geeyum Workflow"
+  short_description: "使用通用协作规则理解要求、处理纠正、主动推进，并核验执行与交付结果"
+  default_prompt: "请使用 $geeyum-workflow，按通用协作规范理解并完成当前任务。"
